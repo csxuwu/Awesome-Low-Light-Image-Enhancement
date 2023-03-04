@@ -174,7 +174,7 @@ This is a collection of awesome papers I have read (carefully or roughly) in the
 
 ## Survey [[Back to Top]](#Survey)
 
-Li C, Guo C, Han L, et al. Low-light image and video enhancement using deep learning: A survey[J]. IEEE transactions on pattern analysis and machine intelligence, 2021, 44(12): 9396-9416.
+1. Li C, Guo C, Han L, et al. Low-light image and video enhancement using deep learning: A survey[J]. IEEE transactions on pattern analysis and machine intelligence, 2021, 44(12): 9396-9416.
 
 1. **Updating....** * et al, .*  [[PDF]]() [[Author]]()
 
