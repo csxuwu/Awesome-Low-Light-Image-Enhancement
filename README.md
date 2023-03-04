@@ -127,20 +127,21 @@ This is a collection of awesome papers I have read (carefully or roughly) in the
 1. Karadeniz A S, Erdem E, Erdem A. Burst Denoising of Dark Images[J]. arXiv preprint arXiv:2003.07823, 2020.
 2.  Wang L W, Liu Z S, Siu W C, et al. Lightening network for low-light image enhancement[J]. IEEE Transactions on Image Processing, 2020, 29: 7984-7996.
 3. Fu Q, Di X, Zhang Y. Learning an adaptive model for extreme low-light raw image processing[J]. IET Image Processing, 2020, 14(14): 3433-3443.
-4. 江泽涛, 覃露露.一种基于U-Net 生成对抗网络的低照度图像增强方法[J]. 电子学报. 2020 Vol. 48 (2): 258-264.
-5. 江泽涛,覃露露,秦嘉奇等.一种基于MDARNet的低照度图像增强方法[J].软件学报,2021,32(12):3977-3991.DOI:10.13328/j.cnki.jos.006112.
-6. 江泽涛,伍旭,张少钦.一种基于MR-VAE的低照度图像增强方法[J].计算机学报,2020,43(07):1328-1339.
-7. 江泽涛,钱艺,伍旭等.一种基于ARD-GAN的低照度图像增强方法[J].电子学报,2021,49(11):2160-2165.
-8. Meng Z, Xu R, Ho C M. GIA-Net: Global Information Aware Network for Low-light Imaging[C]//European Conference on Computer Vision (ECCV). Springer, Cham, 2020: 327-342.
-9. Zamir S W, Arora A, Khan S, et al. Learning enriched features for real image restoration and enhancement[J]. IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 45, no. 2, pp. 1934–1948, 2023
-10. Kim H U, Koh Y J, Kim C S. Global and Local Enhancement Networks for Paired and Unpaired Image Enhancement[C]//European Conference on Computer Vision (ECCV). Springer, Cham, 2020: 339-354.
-11. Wang Y, Jiang Z, Liu C, et al. Shed Various Lights on a Low-Light Image: Multi-Level Enhancement Guided by Arbitrary References[J]. arXiv preprint arXiv:2101.00813, 2021.
-12. Lv F, Li Y, Lu F. Attention guided low-light image enhancement with a large scale low-light simulation dataset[J]. International Journal of Computer Vision, 2021, 129(7): 2175-2193.
-13. Ma L, Liu R, Zhang J, et al. Learning deep context-sensitive decomposition for low-light image enhancement[J]. IEEE Transactions on Neural Networks and Learning Systems, 2021, 33(10): 5666-5680.
-14. Hao S, Han X, Guo Y, et al. Decoupled Low-Light Image Enhancement[J]. ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2022, 18(4): 1-19.
-15. Y. Yang, Y. Zhang, and X. Guo. Low-light image enhancement via feature restoration. in IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2022, pp. 2440–2444.
-16. X. Xu, R. Wang, C.-W. Fu, and J. Ji. Snr-aware low-light image enhancement. in IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022, pp. 17 693–17 703.
-17. Wang Y, Wan R, Yang W, et al. Low-light image enhancement with normalizing flow[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2022, 36(3): 2604-2612.
+4. Fan M, Wang W, Yang W, et al. Integrating semantic segmentation and retinex model for low-light image enhancement[C]//Proceedings of the 28th ACM international conference on multimedia. 2020: 2317-2325.
+5. 江泽涛, 覃露露.一种基于U-Net 生成对抗网络的低照度图像增强方法[J]. 电子学报. 2020 Vol. 48 (2): 258-264.
+6. 江泽涛,覃露露,秦嘉奇等.一种基于MDARNet的低照度图像增强方法[J].软件学报,2021,32(12):3977-3991.DOI:10.13328/j.cnki.jos.006112.
+7. 江泽涛,伍旭,张少钦.一种基于MR-VAE的低照度图像增强方法[J].计算机学报,2020,43(07):1328-1339.
+8. 江泽涛,钱艺,伍旭等.一种基于ARD-GAN的低照度图像增强方法[J].电子学报,2021,49(11):2160-2165.
+9. Meng Z, Xu R, Ho C M. GIA-Net: Global Information Aware Network for Low-light Imaging[C]//European Conference on Computer Vision (ECCV). Springer, Cham, 2020: 327-342.
+10. Zamir S W, Arora A, Khan S, et al. Learning enriched features for real image restoration and enhancement[J]. IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 45, no. 2, pp. 1934–1948, 2023
+11. Kim H U, Koh Y J, Kim C S. Global and Local Enhancement Networks for Paired and Unpaired Image Enhancement[C]//European Conference on Computer Vision (ECCV). Springer, Cham, 2020: 339-354.
+12. Wang Y, Jiang Z, Liu C, et al. Shed Various Lights on a Low-Light Image: Multi-Level Enhancement Guided by Arbitrary References[J]. arXiv preprint arXiv:2101.00813, 2021.
+13. Lv F, Li Y, Lu F. Attention guided low-light image enhancement with a large scale low-light simulation dataset[J]. International Journal of Computer Vision, 2021, 129(7): 2175-2193.
+14. Ma L, Liu R, Zhang J, et al. Learning deep context-sensitive decomposition for low-light image enhancement[J]. IEEE Transactions on Neural Networks and Learning Systems, 2021, 33(10): 5666-5680.
+15. Hao S, Han X, Guo Y, et al. Decoupled Low-Light Image Enhancement[J]. ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2022, 18(4): 1-19.
+16. Y. Yang, Y. Zhang, and X. Guo. Low-light image enhancement via feature restoration. in IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2022, pp. 2440–2444.
+17. X. Xu, R. Wang, C.-W. Fu, and J. Ji. Snr-aware low-light image enhancement. in IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022, pp. 17 693–17 703.
+18. Wang Y, Wan R, Yang W, et al. Low-light image enhancement with normalizing flow[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2022, 36(3): 2604-2612.
 
 
 1. **Updating....** * et al, .*  [[PDF]]() [[Author]]()
