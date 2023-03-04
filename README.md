@@ -2,7 +2,7 @@
 
 ![Paper Reading](https://img.shields.io/badge/PhD-Paper_Reading-green)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Paper Reading](https://img.shields.io/badge/Fields-CV_ML_PR_DM-blue)
+![Paper Reading](https://img.shields.io/badge/Fields-CV-blue)
 
 This is a collection of awesome papers I have read (carefully or roughly) in the fields of low-light image enhancement (where the notes only represent my personal views). The collection will be continuously updated, so stay tuned. Any suggestions and comments are welcome (csxunwu@gmail.com). 
 
