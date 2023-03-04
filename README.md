@@ -36,6 +36,7 @@ This is a collection of awesome papers I have read (carefully or roughly) in the
 1. **LIME** Guo X, Li Y, Ling H. LIME: Low-light image enhancement via illumination map estimation[J]. IEEE Transactions on image processing, 2016, 26(2): 982-993.
 1. **ExDark** Loh Y P, Chan C S. Getting to know low-light images with the exclusively dark dataset[J]. Computer Vision and Image Understanding, 2019, 178: 30-42.
 1. **Dark Face** Yang W, Yuan Y, Ren W, et al. Advancing image understanding in poor visibility environments: A collective benchmark study[J]. IEEE Transactions on Image Processing, 2020, 29: 5737-5752.
+1. **AGLL** Lv F, Li Y, Lu F. Attention guided low-light image enhancement with a large scale low-light simulation dataset[J]. International Journal of Computer Vision, 2021, 129(7): 2175-2193.
 
 1. **Updating....** * et al, .*  [[PDF]]() [[Author]]()
 
@@ -135,7 +136,8 @@ This is a collection of awesome papers I have read (carefully or roughly) in the
 1. Wang Y, Jiang Z, Liu C, et al. Shed Various Lights on a Low-Light Image: Multi-Level Enhancement Guided by Arbitrary References[J]. arXiv preprint arXiv:2101.00813, 2021.
 1. Y. Yang, Y. Zhang, and X. Guo. Low-light image enhancement via feature restoration. in IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2022, pp. 2440–2444.
 1. X. Xu, R. Wang, C.-W. Fu, and J. Ji. Snr-aware low-light image enhancement. in IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022, pp. 17 693–17 703.
-
+1. Wang Y, Wan R, Yang W, et al. Low-light image enhancement with normalizing flow[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2022, 36(3): 2604-2612.
+1. Lv F, Li Y, Lu F. Attention guided low-light image enhancement with a large scale low-light simulation dataset[J]. International Journal of Computer Vision, 2021, 129(7): 2175-2193.
 
 1. **Updating....** * et al, .*  [[PDF]]() [[Author]]()
 
@@ -146,7 +148,11 @@ This is a collection of awesome papers I have read (carefully or roughly) in the
 1. Chen Y S, Wang Y C, Kao M H, et al. Deep photo enhancer: Unpaired learning for image enhancement from photographs with gans[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2018: 6306-6314.
 1. Jiang Y, Gong X, Liu D, et al. Enlightengan: Deep light enhancement without paired supervision[J]. IEEE Transactions on Image Processing (TIP), 2021, 30: 2340-2349.
 1. Guo C, Li C, Guo J, et al. Zero-reference deep curve estimation for low-light image enhancement[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2020: 1780-1789.
+1. Kim H U, Koh Y J, Kim C S. Global and local enhancement networks for paired and unpaired image enhancement[C]//Computer Vision–ECCV 2020: 16th European Conference, Glasgow, UK, August 23–28, 2020, Proceedings, Part XXV 16. Springer International Publishing, 2020: 339-354.
 1. Guo C, Li C, Guo J, et al. Learning to enhance low-light image via zero-reference deep curve estimation[J]. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021, 44(8): 4225-4238.
+1. Ma L, Ma T, Liu R, et al. Toward fast, flexible, and robust low-light image enhancement[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022: 5637-5646.
+1. Jin Y, Yang W, Tan R T. Unsupervised night image enhancement: When layer decomposition meets light-effects suppression[C]//Computer Vision–ECCV 2022: 17th European Conference, Tel Aviv, Israel, October 23–27, 2022, Proceedings, Part XXXVII. Cham: Springer Nature Switzerland, 2022: 404-421.
+
 
 
 1. **Updating....** * et al, .*  [[PDF]]() [[Author]]()
